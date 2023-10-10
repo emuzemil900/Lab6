@@ -3,7 +3,12 @@ td {
   font-size: 1.2em;
   text-align: left;
   }
-  
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f5f5f5;
+}
+
 tr {
   border-bottom: 1px solid;
   }
