@@ -21,11 +21,11 @@ td {
   padding: 15px;
   font-size: 1.2em;
   text-align: left;
-  color: #871F78
+  color: #4CAF50
   }
 
 .left_border {
-  border-left: 4px solid #4CAF50;
+  border-left: 4px solid #871F78;
   font-size: 1.1em;
   font-family: 'Times New Roman', system-ui;
 }
@@ -43,7 +43,7 @@ h1 {
   text-align: center;
   font-size: 3.5em;
   margin-bottom: 20px;
-  color: #871F78;
+  color: #4CAF50;
 }
 
 img {
