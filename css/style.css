@@ -1,3 +1,14 @@
+.table_image {
+  padding-left: 10px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 20px auto;
+  border: 2px solid #ddd;
+}
+
 td {
   padding: 15px;
   font-size: 1.2em;
@@ -10,7 +21,7 @@ body {
 }
 
 tr {
-  border-bottom: 1px solid;
+  border-bottom: 1px solid #ddd;
   }
 
 h1 {
