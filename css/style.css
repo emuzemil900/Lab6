@@ -24,6 +24,12 @@ td {
   color: #871F78
   }
 
+.left_border {
+  border-left: 4px solid #4CAF50;
+  font-size: 1.1em;
+  font-family: 'Times New Roman', system-ui;
+}
+
 body {
   font-family: 'Times New Roman', system-ui;
   background-color: #000000;
