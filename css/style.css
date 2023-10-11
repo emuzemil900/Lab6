@@ -57,6 +57,5 @@ img:hover {
 
 .merc:hover, .earth:hover, .mars:hover, .uran:hover {
   font-weight: bold;
-  color: light green;
   background-color: #FAFAD2
 }
