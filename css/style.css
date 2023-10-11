@@ -19,7 +19,7 @@ td {
   padding: 15px;
   font-size: 1.2em;
   text-align: left;
-  color: #32de84;
+  color: #82A67D;
   }
 
 .left_border {
@@ -38,11 +38,11 @@ tr {
   }
 
 h1 {
-  text-align: justify;
+  text-align: center;
   font-size: 3.5em;
   text-transform: uppercase;
   margin-bottom: 20px;
-  color: #32de84;
+  color: #82A67D;
 }
 
 img {
