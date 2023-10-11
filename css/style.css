@@ -23,7 +23,7 @@ td {
   }
 
 .left_border {
-  border-left: 2px solid #FF69B4;
+  border-left: 2px solid #a7d8de;
   font-size: 1.1em;
   font-family: 'Times New Roman', system-ui;
 }
@@ -38,7 +38,7 @@ tr {
   }
 
 h1 {
-  text-align: center;
+  text-align: justify;
   font-size: 3.5em;
   text-transform: uppercase;
   margin-bottom: 20px;
